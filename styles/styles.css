@@ -1,0 +1,23 @@
+html {
+  font-family: 'Rubik', sans-serif;
+}
+
+body {
+  width: 600px;
+  margin: 0 auto;
+  padding: 0 20px 20px 20px;
+}
+
+.header {
+  display: flex;
+  flex-direction: row;
+}
+
+.salut {
+  margin: 0 0 0 20px;
+  text-align: justify;
+}
+
+.salut p:first-child {
+  margin-top: 0;
+}

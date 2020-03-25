@@ -51,3 +51,12 @@ body {
   background-color:#d1ecf1;
   border-color:#bee5eb;
 }
+
+.image-attr {
+  font-size: 0.9em;
+  font-style: italic;
+}
+
+iframe {
+  border: 0;
+}

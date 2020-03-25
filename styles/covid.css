@@ -1,0 +1,4 @@
+.traffic-iframe {
+  display: flex;
+  flex-direction: column;
+}
